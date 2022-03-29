@@ -1,6 +1,6 @@
 # Tatsiana Kisialevich
 
-![Tatsiana Kisialevich](/myfoto.jpg)
+![Tatsiana Kisialevich](https://avatars.githubusercontent.com/u/81373639?v=4)
 
 ### Contacts:
 
