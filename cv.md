@@ -1,5 +1,7 @@
 # Tatsiana Kisialevich
 
+![Tatsiana Kisialevich](/myfoto.jpg)
+
 ### Contacts:
 
 Wroclaw, Poland
