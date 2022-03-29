@@ -1,5 +1,7 @@
 # Tatsiana Kisialevich
 
+![Tatsiana Kisialevich](https://avatars.githubusercontent.com/u/81373639?v=4)
+
 ### Contacts:
 
 Wroclaw, Poland
