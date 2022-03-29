@@ -40,3 +40,15 @@ function insertColon (num) {
   return result.join('');
 }
 ```
+
+### Education:
+
+- **2002-2007** Minsk Innovation University, specialty \- lawyer with knowledge of economics
+- **2021** TeachMeSkills, specialty \- Front End Developer
+
+### Languages:
+
+- English \- A2
+- Polish \- A1
+- Belorussian \- native
+- Russian \- native
